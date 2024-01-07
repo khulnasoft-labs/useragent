@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/antchfx/xmlquery v1.3.17
 	github.com/khulnasoft-labs/goflags v0.1.13
-	github.com/khulnasoft-labs/stringsutil v0.0.2
+	github.com/khulnasoft-labs/stringsutil v0.0.4
 	github.com/khulnasoft-labs/utils v0.0.45
 	github.com/stretchr/testify v1.8.4
 )
