@@ -3,7 +3,7 @@ module github.com/khulnasoft-labs/useragent
 go 1.20
 
 require (
-	github.com/antchfx/xmlquery v1.3.17
+	github.com/antchfx/xmlquery v1.4.2
 	github.com/khulnasoft-labs/goflags v0.1.13
 	github.com/khulnasoft-labs/stringsutil v0.0.2
 	github.com/khulnasoft-labs/utils v0.0.45
@@ -11,7 +11,7 @@ require (
 )
 
 require (
-	github.com/antchfx/xpath v1.2.4 // indirect
+	github.com/antchfx/xpath v1.3.2 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/cnf/structhash v0.0.0-20201127153200-e1b16c1ebc08 // indirect
